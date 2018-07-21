@@ -1,4 +1,4 @@
-# MyFlask
+# MyFlask python2.7
 
 Simple framework for creating REST APIs http://flask-restful.readthedocs.io<br>
 
